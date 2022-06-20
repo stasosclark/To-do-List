@@ -94,3 +94,5 @@ taskList.addEventListener("click", function(event) {
         event.target.parentElement.classList.toggle("completed")
     }
 })
+
+// test comment
